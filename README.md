@@ -6,7 +6,7 @@ This project showcases my skills, projects, and provides an easy way to connect 
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here — GitHub Pages / Vercel / Netlify)
+👉 https://my-portfolio-nine-rust-83.vercel.app/
 
 ---
 
@@ -33,7 +33,7 @@ This project showcases my skills, projects, and provides an easy way to connect 
 
 Clone the repository:
 
-git clone https://github.com/your-username/portfolio.git  
+git clone https://github.com/Pankaj-099/my-portfolio  
 cd portfolio
 
 Install dependencies:
@@ -73,9 +73,9 @@ My resume is available in the portfolio and can be downloaded directly from the 
 
 ## 📬 Contact
 
-- 📧 Email: (your email)
-- 💼 LinkedIn: (your linkedin link)
-- 🐙 GitHub: https://github.com/your-username
+- 📧 Email: damalepankaj9@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pankaj-d-47ab673a8/
+- 🐙 GitHub: https://github.com/Pankaj-099
 
 ---
 
