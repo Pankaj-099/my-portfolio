@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio (v2)
+# 💼 Personal Portfolio
 
 A modern and responsive developer portfolio built using React, TypeScript, and Vite.  
 This project showcases my skills, projects, and provides an easy way to connect with me.
